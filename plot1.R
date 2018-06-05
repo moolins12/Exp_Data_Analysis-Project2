@@ -2,8 +2,6 @@
 ############ Project      ############ ############ ############ ############ 
 ############ ############ ############ ############ ############ ############ 
 
-#### Clustering Case study using the Samsung movement data
-
 data_folder <- "Project Data"
 filename <- "Project_Data.zip"
 
